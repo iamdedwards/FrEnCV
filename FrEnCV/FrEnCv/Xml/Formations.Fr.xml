@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Formations>
+  <Formation>
+	<Establishment>42</Establishment>
+	<Title>Certificat en technologie numerique</Title>
+	<From>2015</From>
+	<To>2017</To>
+	<Modules>
+	  <Module>Adaptation et creativité </Module>
+	  <Module>Algorithmes et AI </Module>
+	  <Module>BD et Données</Module>
+	  <Module>Graphiques</Module>
+	  <Module>Groupe et interpersonelle </Module>
+	  <Module>Organisation</Module>
+	  <Module>Rigor</Module>
+	  <Module>Unix</Module>
+	  <Module>Web</Module>	
+	</Modules>
+  </Formation>
+   <Formation>
+	<Establishment>Doranco</Establishment>
+	<Title>Concepteur développeur informatique</Title>
+	<From>2015</From><To>2016</To>
+	<Modules>
+	  <Module>Développement des applications avec C#</Module>
+	  <Module>Persistance des données : ADO.NET – LINQ – SQL Server</Module>
+	  <Module>Triggers et procédures stockées avec Oracle - PL/SQL et MS SQLserver - TSQL</Module>
+	  <Module>Développer des web services REST en .NET</Module>
+	  <Module>Développement web avec JAVA EE 6</Module>
+	  <Module>Développement Android avec JAVA</Module>
+	  <Module>Développement des web services REST avec JAVA</Module>
+	  <Module>Modélisation des données avec les méthodes Merise et UML</Module>
+	  <Module>Architecture applicative : Les bonnes pratiques</Module>
+	</Modules>
+  </Formation>
+ <Formation>
+	<Establishment>University of Salford</Establishment>
+	<Title>English and creative writing</Title>
+	<From>2006</From><To>2009</To>
+	<Modules>
+	</Modules>
+  </Formation>
+</Formations>

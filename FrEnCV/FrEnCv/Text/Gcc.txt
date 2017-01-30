@@ -1,0 +1,3 @@
+﻿$> gcc -o -Wall -Wextra -Werror cv_update cv_update.c -L./libft -lft
+$> ./cv_update
+$>
