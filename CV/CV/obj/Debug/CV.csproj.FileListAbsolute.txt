@@ -1,0 +1,15 @@
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\bin\Debug\CV.exe.config
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\bin\Debug\CV.exe
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\bin\Debug\CV.pdb
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\MainWindow.g.cs
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\App.g.cs
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV_MarkupCompile.cache
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV_MarkupCompile.lref
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\App.baml
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\MainWindow.baml
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV.g.resources
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV.csproj.GenerateResource.Cache
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV.exe
+c:\users\dan\documents\visual studio 2015\Projects\CV\CV\obj\Debug\CV.pdb

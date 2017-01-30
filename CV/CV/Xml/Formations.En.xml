@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Formations>
+  <Formation>
+	<Establishment>42</Establishment>
+	<Title>Certification in digital technology</Title>
+	<From>2015</From>
+	<To>2017</To>
+	<Modules>
+	  <Module>Adaptation and creativity </Module>
+	  <Module>Algorithms and AI </Module>
+	  <Module>DB and data</Module>
+	  <Module>Graphics</Module>
+	  <Module>Group and interpersonal </Module>
+	  <Module>Organisation</Module>
+	  <Module>Rigor</Module>
+	  <Module>Unix</Module>
+	  <Module>Web</Module>	
+	</Modules>
+  </Formation>
+   
+
+  <Formation>
+	<Establishment>Doranco</Establishment>
+	<Title>Software design and development</Title>
+	<From>2015</From><To>2016</To>
+	<Modules>
+	  <Module>Application developement with C#</Module>
+	  <Module>Data persistance : ADO.NET – LINQ – SQL Server</Module>
+	  <Module>Triggers and stored procedures with Oracle - PL/SQL and MS SQLserver - TSQL</Module>
+	  <Module>Development of REST web services in .NET</Module>
+	  <Module>Development web with JAVA EE 6</Module>
+	  <Module>Development Android with JAVA</Module>
+	  <Module>Development of REST web services with JAVA</Module>
+	  <Module>Modelisation of data with the methods Merise and UML</Module>
+	  <Module>Application architecture : best practice</Module>
+	</Modules>
+  </Formation>
+  
+ <Formation>
+	<Establishment>University of Salford</Establishment>
+	<Title>English and Creative Writing</Title>
+	<From>2006</From><To>2009</To>
+	<Modules>
+	</Modules>
+  </Formation>
+</Formations>
